@@ -1,0 +1,179 @@
+{
+    "data": [
+        {
+            "timeAdvise": "11/12/2023",
+            "advise": [
+                {
+                    "adviseId": 1,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                },
+                {
+                    "adviseId": 2,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                }
+            ]
+        },
+        {
+            "timeAdvise": "12/12/2023",
+            "advise": [
+                {
+                    "adviseId": 3,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Tất Đạt",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2005",
+                    "parentName": "Nguyến Tất Phú",
+                    "parentPhoneNumber": "0369754128"
+                },
+                {
+                    "adviseId": 4,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                }
+            ]
+        },
+        {
+            "timeAdvise": "15/12/2023",
+            "advise": [
+                {
+                    "adviseId": 5,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                },
+                {
+                    "adviseId": 6,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                }
+            ]
+        },
+        {
+            "timeAdvise": "17/12/2023",
+            "advise": [
+                {
+                    "adviseId": 7,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                },
+                {
+                    "adviseId": 8,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                }
+            ]
+        },
+        {
+            "timeAdvise": "18/12/2023",
+            "advise": [
+                {
+                    "adviseId": 9,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                },
+                {
+                    "adviseId": 10,
+                    "phoneNumber": "0867558467",
+                    "nameStudent": "Nguyễn Việt Hoàng",
+                    "statusHuman": "Đã đăng kí",
+                    "status": 11,
+                    "priorityHuman": "Ưu tiên cực cao",
+                    "priority": 1,
+                    "source": "Bạn bè giới thiệu",
+                    "job": "Học sinh",
+                    "gender": 0,
+                    "dateOfBirth": "12/08/2003",
+                    "parentName": "",
+                    "parentPhoneNumber": ""
+                }
+            ]
+        }
+    ]
+}

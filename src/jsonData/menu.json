@@ -1,0 +1,36 @@
+{
+	"data": {
+		"index": [
+			{
+				"indexId": 1,
+				"name": "CRM",
+				"menu": [
+					{
+						"name": "Tư Vấn",
+						"description": "Tư vấn học viên",
+						"path": "advise",
+						"icon": "advise.svg"
+					},
+					{
+						"name": "Báo Cáo Tư Vấn",
+						"description": "Báo cáo hoạt động tư vấn của bộ phận kinh doanh",
+						"path": "dashboardAdvise",
+						"icon": "crm.svg"
+					},
+					{
+						"name": "Học viên",
+						"description": "Quản lý thông tin học viên",
+						"path": "",
+						"icon": "student.svg"
+					},
+					{
+						"name": "Chăm sóc",
+						"description": "Quá trình chăm sóc học viên",
+						"path": "",
+						"icon": "caring.svg"
+					}
+				]
+			}
+		]
+	}
+}

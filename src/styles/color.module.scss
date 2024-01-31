@@ -1,0 +1,17 @@
+$success-color: #64ff00;
+$failed-color: #d60606;
+$primary-color: #0d6efd;
+$waring-color: #dbdf03;
+$waiting-color: #770b92;
+$hope-color: #ec0e90;
+$dark-color: #000000;
+
+:export {
+    successColor: $success-color;
+    failedColor: $failed-color;
+    primaryColor: $primary-color;
+    warningColor: $waring-color;
+    waitingColor: $waiting-color;
+    hopeColor: $hope-color;
+    darkColor: $dark-color;
+}

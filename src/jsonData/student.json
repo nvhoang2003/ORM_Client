@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "studentId": 1,
+            "studentName": "Nguyễn Việt Hoàng",
+            "dateOfBirth": "12/08/2003",
+            "gender": 0,
+            "parentName": "ád",
+            "parentPhoneNumber": "0321",
+            "note": "a"
+        },
+        {
+            "studentId": 2,
+            "studentName": "Nguyễn Việt Hoàng",
+            "dateOfBirth": "12/08/2003",
+            "gender": 0,
+            "parentName": "",
+            "parentPhoneNumber": "",
+            "note": ""
+        },
+        {
+            "studentId": 3,
+            "studentName": "Nguyễn Việt Hoàng",
+            "dateOfBirth": "12/08/2003",
+            "gender": 0,
+            "parentName": "",
+            "parentPhoneNumber": "",
+            "note": ""
+        }
+    ]
+}
